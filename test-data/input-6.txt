@@ -1,0 +1,4 @@
+# Create a ship with a stocked primary torpedo stores that never fail
+GT4500,1,0,0,0
+TORPEDO,ALL  # Tries to fire a torpedo from both stores, should succeed (can fire primary)
+TORPEDO,ALL  # Tries to fire a torpedo from both stores, should fail
