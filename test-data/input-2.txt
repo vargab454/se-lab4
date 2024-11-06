@@ -1,0 +1,4 @@
+# Create a ship with stocked torpedo stores that never fail, tests whether the secondary store is fired in case of the primary not having a single torpedo in its store
+GT4500,0,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
